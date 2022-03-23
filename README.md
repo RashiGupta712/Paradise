@@ -1,4 +1,4 @@
-✨ Paradise-Restaurant Website ✨
+## **✨ Paradise-Restaurant Website ✨**
 
 This is a web based application developed for a restaurant named PARADISE.
 
@@ -12,3 +12,7 @@ Features and Functionalities 😃
 4. Has collection of many web pages including Home, About Us, Contact, Menu, Chef Staff pages etc.
 5. User is able to book a table through the website.
 6. Included the feedback Survey form to increase the scope of improvement
+
+
+## **Screenshots 📸**
+**Home page -**
