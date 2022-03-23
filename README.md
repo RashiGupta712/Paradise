@@ -19,3 +19,5 @@ Features and Functionalities 😃
 ![ss_home](https://user-images.githubusercontent.com/65770068/159678476-e58e263b-8dc1-4d3b-a5ab-b85b617efea3.png)
 
 ## Team Page
+![ss_team](https://user-images.githubusercontent.com/65770068/159678925-82feacae-ed81-426a-ae15-8a5040f5747f.png)
+
